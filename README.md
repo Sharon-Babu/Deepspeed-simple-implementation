@@ -1,7 +1,7 @@
 # Deepspeed-simple-implementation
 Aims to build a simple example model and find out the training loss and know how efficiently deepspeed technique trains the model
 
-#Installing PyTorch Ligthning
+# Installing PyTorch Ligthning
 Before running the code, Pytorch Lightning must be installed
 
 simple command in shell:
